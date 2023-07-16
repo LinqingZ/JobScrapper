@@ -1,3 +1,3 @@
 # Job Scrapper
-## Indeed Job Scrapper
-## LinkedIn Job Scrapper
+## Indeed Job Scrapper [jobscrapper.py]
+## LinkedIn Job Scrapper [jobscrapper.py]
