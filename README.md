@@ -1,3 +1,3 @@
 # Job Scrapper
-## Indeed Job Scrapper [jobscrapper.py]
-## LinkedIn Job Scrapper [jobscrapper.py]
+## [Indeed Job Scrapper](https://github.com/LinqingZ/JobScrapper/blob/main/jobscrapper.py)
+## [LinkedIn Job Scrapper](https://github.com/LinqingZ/JobScrapper/blob/main/jobscrapper.py)
